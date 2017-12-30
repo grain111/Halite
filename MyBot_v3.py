@@ -1,7 +1,7 @@
 import hlt
 import logging
 
-game = hlt.Game("MegaBot-v4")
+game = hlt.Game("MegaBot-v3")
 logging.info("Starting my Megabot!")
 
 while True:
