@@ -1,0 +1,8 @@
+*.hlt
+*.log
+*.pyc
+__pycache__
+*.zip
+*.exe
+*.bat
+*.sh
